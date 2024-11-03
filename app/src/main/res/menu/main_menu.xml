@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/miJuniorAthlete"
+        android:title="@string/mi_junior_athlete" />
+    <item
+        android:id="@+id/miSeniorAthlete"
+        android:title="@string/mi_senior_athlete" />
+    <item
+        android:id="@+id/miOtherAthlete"
+        android:title="@string/mi_other_athlete" />
+</menu>

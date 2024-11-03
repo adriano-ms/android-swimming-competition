@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Swimming Competition</string>
+    <string name="tv_name">Adriano Maciel Sanchez</string>
+    <string name="tv_ra">1110482313018</string>
+    <string name="mi_junior_athlete">Junior Athlete</string>
+    <string name="mi_senior_athlete">Senior Athlete</string>
+    <string name="mi_other_athlete">Other Athlete</string>
+    <string name="et_name">Name</string>
+    <string name="et_birthdate">Birthdate</string>
+    <string name="et_neighborhood">Neighborhood</string>
+    <string name="et_years_practicing">Years practicing</string>
+    <string name="bt_save">Save</string>
+    <string name="cb_heart_diseases">Heart diseases</string>
+    <string name="et_gym">Gym</string>
+    <string name="et_record_in_seconds">Record in seconds</string>
+    <string name="alert_error_title">Error!</string>
+    <string name="alert_invalid_date">Invalid date!</string>
+</resources>
